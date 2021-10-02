@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+}
+div {
+  text-align: center;
+  font-size: 15px;
+}
+.container {
+  text-align: center;
+  width: 30%;
+}
+
+.subcon {
+  width: 30%;
+}
